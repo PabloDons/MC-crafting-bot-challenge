@@ -3,7 +3,6 @@
     "diamond_pickaxe" : ["diamond","diamond","diamond","","stick","","","stick",""],
     "iron_axe"        : ["iron_ingot","iron_ingot","","iron_ingot","stick","","","stick",""],
     "golden_hoe"      : ["gold_ingot","gold_ingot","","","stick","","","stick",""],
-    "piston"          : ["planks","planks","planks","cobblestone","iron_ingot","cobblestone","cobblestone","restone","cobblestone"],
     "fishing_rod"     : ["","","stick","","stick","string","stick","","string"],
     "bow"             : ["","stick","string","stick","","string","","stick","string"]
 }
